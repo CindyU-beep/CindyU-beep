@@ -1,11 +1,15 @@
-# Hello There! <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px" />
+
+<a href="https://git.io/typing-svg"><img src="https://typing-svg.herokuapp.com?font=&size=30&pause=1000&center=true&multiline=true&width=220&height=40&lines=Hello%2C+There!" alt="Typing SVG" /></a><img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px"/><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cindyu-beep&color=36bcf7&style=circle"></h2>
+
+
+
 <p>
 I'm Cindy and I'm a Computer Science (Honours) / Commerce Student at the University of Sydney.
 
  <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> Currently interning on the Business Applications Team at Microsoft, Australia
 </p>
 
-[![Twitter](https://img.shields.io/twitter/follow/Cindy1Um?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Cindy1Um) &nbsp;
+
 
 <h3>Things I code with</h3>
 <p>
