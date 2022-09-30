@@ -5,7 +5,7 @@ I'm Cindy and I'm a Computer Science (Honours) / Commerce Student at the Univers
  <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> Currently interning on the Business Applications Team at Microsoft, Australia
 </p>
 
-[![Twitter](https://img.shields.io/twitter/follow/Cindy1Um?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp;
+[![Twitter](https://img.shields.io/twitter/follow/Cindy1Um?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Cindy1Um) &nbsp;
 
 <h3>Things I code with</h3>
 <p>
@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 </a>
 <p> </p>
 
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CindyU-beep&bg_color=b8c0ff&color=ffffff&line=7547ff&point=1f007a&custom_title=My%20Github%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CindyU-beep&bg_color=b8c0ff&color=ffffff&line=7547ff&point=1f007a&custom_title=My%20Github%20Activity%20Graph)](https://github.com/CindyU-beep/github-readme-activity-graph)
 
