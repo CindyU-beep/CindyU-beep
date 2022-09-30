@@ -1,8 +1,11 @@
 # Hello There! <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px" />
-I'm Cindy and I'm a Computer Science (Honours) / Commerce Student at the University of Sydney.
 <p>
-Currently interning on the Business Applications Team at <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="55px" height="15px" /> Australia
+I'm Cindy and I'm a Computer Science (Honours) / Commerce Student at the University of Sydney.
+
+ <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> Currently interning on the Business Applications Team at Microsoft, Australia
 </p>
+
+[![Twitter](https://img.shields.io/twitter/follow/Cindy1Um?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp;
 
 <h3>Things I code with</h3>
 <p>
@@ -45,7 +48,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyU-beep&hide=java,html,tex&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&langs_count=3" />
 </a>
 <a href="https://github.com/CindyU-beep/CindyU-beep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CindyU-beep&show_icons=true&line_height=27&count_private=true&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff" alt="Cindy's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CindyU-beep&show_icons=true&line_height=27&count_private=true&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff" alt="My GitHub Stats" />
 </a>
+<p> </p>
 
+[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CindyU-beep&bg_color=b8c0ff&color=ffffff&line=7547ff&point=1f007a&custom_title=My%20Github%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
