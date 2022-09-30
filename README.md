@@ -1,7 +1,7 @@
 # Hello There! <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px" />
 I'm Cindy and I'm a Computer Science (Honours) / Commerce Student at the University of Sydney.
 <p>
-Currently interning on the Business Applications Team at Microsoft, Australia <img src="" width="15px" height="15px" /> 
+Currently interning on the Business Applications Team at <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="55px" height="15px" /> Australia
 </p>
 
 <h3>Things I code with</h3>
