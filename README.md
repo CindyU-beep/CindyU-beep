@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+🌆 Daytime    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+🌃 Evening    45 commits     ███████████████████░░░░░░   77.59% 
+🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
