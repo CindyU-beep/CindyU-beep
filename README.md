@@ -4,11 +4,15 @@
 
 
 <p>
-I'm Cindy and I'm a Computer Science (Honours) / Commerce Student at the University of Sydney.
+I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the University of Sydney.
 
  <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> Currently interning on the Business Applications Team at Microsoft, Australia
 </p>
 
+<h3>Connect with me on Socials</h3>
+
+  <a href="https://twitter.com/intent/follow?screen_name=cindy1um&tw_p=followbutton"><img alt="Twitter" src="https://img.shields.io/twitter/follow/cindy1um?color=BBD0FF&logo=twitter&logoColor=BBD0FF&style=for-the-badge" /> 
+  <a href="https://www.linkedin.com/in/cindyum/"><img alt="LinkedIn" src="https://github.com/CindyU-beep/CindyU-beep/blob/main/linkedinlogo.png " width="150px" height="28px" />
 
 
 <h3>Things I code with</h3>
@@ -47,14 +51,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Some Fun Stats
+<a href="https://github.com/CindyU-beep/CindyU-beep">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CindyU-beep&show_icons=true&line_height=27&count_private=true&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&custom_title=My%20Github%20Stats" alt="My GitHub Stats" />
+</a>
+
 <a href="https://github.com/CindyU-beep/CindyU-beep">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyU-beep&hide=java,html,tex&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&langs_count=3" />
 </a>
-<a href="https://github.com/CindyU-beep/CindyU-beep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CindyU-beep&show_icons=true&line_height=27&count_private=true&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff" alt="My GitHub Stats" />
-</a>
-<p> </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cindyu-beep&background=b8c0ff&fire=1f007a&ring=1f007a&currStreakNum=ffffff&currStreakLabel=ffffff&theme=dark&dates=1f007a)](https://git.io/streak-stats)
 
 [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CindyU-beep&bg_color=b8c0ff&color=ffffff&line=7547ff&point=1f007a&custom_title=My%20Github%20Activity%20Graph)](https://github.com/CindyU-beep/github-readme-activity-graph)
+
+<p> </p>
 
