@@ -45,9 +45,9 @@ I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the Univers
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyU-beep&hide=java,html,tex&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&langs_count=3" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cindyu-beep&background=b8c0ff&fire=1f007a&ring=1f007a&currStreakNum=ffffff&currStreakLabel=ffffff&theme=dark&dates=1f007a)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=cindyu-beep&background=b8c0ff&fire=1f007a&ring=1f007a&currStreakNum=ffffff&currStreakLabel=ffffff&theme=dark&dates=1f007a)
 
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CindyU-beep&bg_color=b8c0ff&color=ffffff&line=7547ff&point=1f007a&custom_title=My%20Github%20Activity%20Graph)]
+![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CindyU-beep&bg_color=b8c0ff&color=ffffff&line=7547ff&point=1f007a&custom_title=My%20Github%20Activity%20Graph)
 
 
 <!--
