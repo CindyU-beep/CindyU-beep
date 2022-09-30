@@ -15,7 +15,7 @@ I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the Univers
   <a href="https://www.linkedin.com/in/cindyum/"><img alt="LinkedIn" src="https://github.com/CindyU-beep/CindyU-beep/blob/main/linkedin.png" width="180px" height="28px" />
 
 
-<h3>Things I code with</h3>
+<h3>Tools & Tech</h3>
 <p>
   
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white" />
