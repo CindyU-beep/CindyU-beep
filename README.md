@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://typing-svg.herokuapp.com?font=&size=30&pause=1000&center=true&multiline=true&width=230&height=40&lines=Hello%2C+There!" alt="Typing SVG" /></a><img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px"/><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cindyu-beep&color=36bcf7&style=circle"></h2>
+<a href="https://git.io/typing-svg"><img src="https://typing-svg.herokuapp.com?font=&size=30&pause=1000&center=true&multiline=true&width=250&height=40&lines=Hello%2C+There!" alt="Typing SVG" /></a><img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px"/><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cindyu-beep&color=36bcf7&style=circle"></h2>
 
 
 
