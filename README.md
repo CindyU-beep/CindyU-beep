@@ -32,6 +32,8 @@ I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the Univers
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-4169E1?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-027DFD?style=flat-square&logo=flutter&logoColor=white" />
+
 
   
 </p>
