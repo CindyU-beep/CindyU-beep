@@ -1,17 +1,12 @@
+<img src="https://typing-svg.herokuapp.com?font=&size=30&pause=1000&center=true&multiline=true&width=240&height=40&lines=Hello%2C+World!" alt="Typing SVG" /></a><img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px"/><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cindyu-beep&color=36bcf7&style=circle"></h2>
 
-<a href="https://git.io/typing-svg"><img src="https://typing-svg.herokuapp.com?font=&size=30&pause=1000&center=true&multiline=true&width=240&height=40&lines=Hello%2C+World!" alt="Typing SVG" /></a><img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/penguin.gif" width="45px" height="30px"/><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cindyu-beep&color=36bcf7&style=circle"></h2>
-
-
-
-<p>
-I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the University of Sydney.
-
- <img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> Currently interning on the Business Applications Team at Microsoft, Australia
-</p>
+<p> I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the University of Sydney. </p>
+ 
+<img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> Currently interning on the Business Applications Team at Microsoft, Australia
+ 
 
 <h3>Connect with me on Socials</h3>
-
-  <a href="https://twitter.com/intent/follow?screen_name=cindy1um&tw_p=followbutton"><img alt="Twitter" src="https://img.shields.io/twitter/follow/cindy1um?color=BBD0FF&logo=twitter&logoColor=BBD0FF&style=for-the-badge" /> 
+ <a href="https://twitter.com/intent/follow?screen_name=cindy1um&tw_p=followbutton"><img alt="Twitter" src="https://img.shields.io/twitter/follow/cindy1um?color=BBD0FF&logo=twitter&logoColor=BBD0FF&style=for-the-badge" /> 
   <a href="https://www.linkedin.com/in/cindyum/"><img alt="LinkedIn" src="https://github.com/CindyU-beep/CindyU-beep/blob/main/linkedin.png" width="180px" height="28px" />
 
 
@@ -33,24 +28,16 @@ I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the Univers
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-4169E1?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-027DFD?style=flat-square&logo=flutter&logoColor=white" />
-
-
   
 </p>
 
 ## &#x1f4c8; Some Fun Stats
-<a href="https://github.com/CindyU-beep/CindyU-beep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CindyU-beep&show_icons=true&line_height=27&count_private=true&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&custom_title=My%20Github%20Stats" alt="My GitHub Stats" />
-</a>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=CindyU-beep&show_icons=true&line_height=27&count_private=true&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&custom_title=My%20Github%20Stats" alt="My GitHub Stats" />
 
-<a href="https://github.com/CindyU-beep/CindyU-beep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyU-beep&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&langs_count=3" />
-</a>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=cindyu-beep&background=b8c0ff&fire=1f007a&ring=1f007a&currStreakNum=ffffff&currStreakLabel=ffffff&theme=dark&dates=1f007a)
-
-![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CindyU-beep&bg_color=b8c0ff&color=ffffff&line=7547ff&point=1f007a&custom_title=My%20Github%20Activity%20Graph)
-
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyU-beep&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&langs_count=3" />
+<img align="center" img src="https://streak-stats.demolab.com/?user=cindyu-beep&amp;background=b8c0ff&amp;fire=1f007a&amp;ring=1f007a&amp;currStreakNum=ffffff&amp;currStreakLabel=ffffff&amp;theme=dark&amp;dates=1f007a" alt="GitHub Streak">
+<p></p>
+<img align="center" img src="https://activity-graph.herokuapp.com/graph?username=CindyU-beep&amp;bg_color=b8c0ff&amp;color=ffffff&amp;line=7547ff&amp;point=1f007a&amp;custom_title=My%20Github%20Activity%20Graph" alt="My Github Activity Graph">
 
 <!--
 **CindyU-beep/CindyU-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
