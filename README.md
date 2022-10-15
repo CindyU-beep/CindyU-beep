@@ -34,7 +34,9 @@
 ## &#x1f4c8; Some Fun Stats
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=CindyU-beep&show_icons=true&line_height=27&count_private=true&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&custom_title=My%20Github%20Stats" alt="My GitHub Stats" />
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyU-beep&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&langs_count=3" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyU-beep&hide=GLSL,HTML&title_color=1f007a&text_color=ffffff&icon_color=ffffff&bg_color=c8b6ff&langs_count=3" />
+
+<!-- &layout=compact -->
 <img align="center" img src="https://streak-stats.demolab.com/?user=cindyu-beep&amp;background=b8c0ff&amp;fire=1f007a&amp;ring=1f007a&amp;currStreakNum=ffffff&amp;currStreakLabel=ffffff&amp;theme=dark&amp;dates=1f007a" alt="GitHub Streak">
 <p></p>
 <img align="center" img src="https://activity-graph.herokuapp.com/graph?username=CindyU-beep&amp;bg_color=b8c0ff&amp;color=ffffff&amp;line=7547ff&amp;point=1f007a&amp;custom_title=My%20Github%20Activity%20Graph" alt="My Github Activity Graph">
