@@ -2,7 +2,7 @@
 
 <p> I'm Cindy and I'm a Computer Science (Honours) / Commerce student at the University of Sydney. </p>
  
-<img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> Currently interning on the Business Applications Team at Microsoft, Australia
+<img src="https://github.com/CindyU-beep/CindyU-beep/blob/main/msftlogo.png" width="15px" height="15px" /> I work in the Data and AI Team at Microsoft, Germany.
  
 
 <h3>Connect with me on Socials</h3>
